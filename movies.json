@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Frozen",
+        "genre": "Animation"
+    },
+    {
+        "id": "2",
+        "name": "Inception",
+        "genre": "Science Fiction"
+    },
+    {
+        "id": "3",
+        "name": "The Dark Knight",
+        "genre": "Action"
+    },
+    {
+        "id": "4",
+        "name": "Titanic",
+        "genre": "Romance"
+    },
+    {
+        "id": "5",
+        "name": "Jurassic Park",
+        "genre": "Adventure"
+    }
+]
